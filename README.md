@@ -118,6 +118,7 @@ python app.py
 
 Gradio will print a local URL in the terminal. Open it in a browser to
 use the interface.
+or you can use : https://2185a71a013ffd176a.gradio.live/
 
 ### 4. Use the app
 
