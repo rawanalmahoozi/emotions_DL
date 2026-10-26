@@ -23,7 +23,7 @@ The project is organised  as follows:
 ``` text
 .
 ├── DL_emotions.ipynb
-├── app.py
+├── emotions_pred.py
 ├── emotions_model.keras
 ├── emotions/
 │   ├── train/
@@ -107,7 +107,7 @@ pip install tensorflow
 
 ### 2. Check the model file
 
-Place `emotions_model.keras` in the same directory as `app.py`, or
+Place `emotions_model.keras` in the same directory as `emotions_pred.py`, or
 update the model path in the code.
 
 ### 3. Start the app
